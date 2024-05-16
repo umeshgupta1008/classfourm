@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Classforum", "..\..\WebSites\Class Foroum\Classforum\Classforum\", "{F5B95A56-8AC7-4B42-9E77-1679FB60F81F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Classforum"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Class Foroum\Classforum\Classforum\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Classforum\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Classforum"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Class Foroum\Classforum\Classforum\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Classforum\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49870"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B95A56-8AC7-4B42-9E77-1679FB60F81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B95A56-8AC7-4B42-9E77-1679FB60F81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
